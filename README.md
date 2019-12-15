@@ -1,3 +1,7 @@
+# Looking for a download?
+
+<a href="https://cydia.oatmealdome.me">Click here</a> on a jailbroken iOS device and click "Add to Cydia".
+
 # DolphiniOS Issue Tracker
 
 This is the official issue tracker for DolphiniOS. Please read the following before making an issue.
