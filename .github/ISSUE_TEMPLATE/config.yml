@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: DolphiniOS Discord
+    url: https://discord.gg/2BNZE95
+    about: Feel free to ask for help in our Discord server if you need general support
+  - name: DolphiniOS FAQ
+    url: https://dolphinios.oatmealdome.me/faq
+    about: DolphiniOS has a website with frequently asked questions
