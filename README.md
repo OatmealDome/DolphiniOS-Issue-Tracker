@@ -1,6 +1,6 @@
 # Looking for a download?
 
-<a href="https://dolhpinios.oatmealdome.me">Click here</a> to learn on how to download DolphiniOS.
+<a href="https://dolphinios.oatmealdome.me">Click here</a> to learn on how to download DolphiniOS.
 
 # DolphiniOS Issue Tracker
 
